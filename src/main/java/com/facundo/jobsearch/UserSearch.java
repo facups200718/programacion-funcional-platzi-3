@@ -1,7 +1,7 @@
 package com.facundo.jobsearch;
 
-public class JobSearch {
+public class UserSearch {
     public static void main(String[] args) {
-        System.out.println("Hello job search");
+        System.out.println("Hello user search");
     }
 }
